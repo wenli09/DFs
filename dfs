@@ -1,0 +1,35 @@
+class Tree Node{
+Int value;
+TreeNode left;
+TreeNoe right;
+
+List<TreeNode>children;
+//basecase
+
+for ()//
+//
+}
+
+DFS 
+Reture type dft(){
+  
+}
+
+public List<integer>inOrderTraversal(TreeNode root){
+  ArrayList<Integer>res = new ArrayList<>();
+  dfs(root,
+}
+publi void dfs (TreeNode root, ArrayList<Integer>)res{
+  //base case
+  if(root!=null){
+        if(root.left!=null){
+            dfs(root.Left,res);
+            }
+            System.out.print(root.value);
+            res.add(root);
+            if(root.right! = null){
+             dfs(root.right,res); 
+           }
+
+
+}
